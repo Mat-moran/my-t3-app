@@ -27,11 +27,6 @@ const Home: NextPage = () => {
             description="The React framework for production"
             documentation="https://nextjs.org/"
           />
-          <TechnologyCard
-            name="TypeScript"
-            description="Strongly typed programming language that builds on JavaScript, giving you better tooling at any scale"
-            documentation="https://www.typescriptlang.org/"
-          />
         </div>
       </main>
     </>
