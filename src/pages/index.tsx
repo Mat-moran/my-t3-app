@@ -32,11 +32,6 @@ const Home: NextPage = () => {
             description="Strongly typed programming language that builds on JavaScript, giving you better tooling at any scale"
             documentation="https://www.typescriptlang.org/"
           />
-          <TechnologyCard
-            name="TailwindCSS"
-            description="Rapidly build modern websites without ever leaving your HTML"
-            documentation="https://tailwindcss.com/"
-          />
         </div>
       </main>
     </>
